@@ -6,11 +6,13 @@ Flutter integration with Firebase for
 * Email Authentication
 * Data storage in [Cloud Firestore](https://firebase.google.com/docs/firestore)
 
-Added android/app/google-services.json to .gitignore required for [Firebase integration](https://firebase.google.com/docs/android/setup)
+Added <B>android/app/google-services.json</B> to [.gitignore](.gitignore) required for [Firebase integration](https://firebase.google.com/docs/android/setup)
 
 Packages Used: mentioned in [pubspec.yaml](pubspec.yaml)
 
 Images directory contain images used as assets
+
+<HR>
 
 ## Start building your own Apps
 
