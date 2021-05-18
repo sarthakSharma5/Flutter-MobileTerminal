@@ -1,10 +1,16 @@
 # code3_terminal
 
-A new Flutter project.
+Android Application developed using Flutter
 
-## Getting Started
+Flutter integration with Firebase for
+* Email Authentication
+* Data storage in [Cloud Firestore](https://firebase.google.com/docs/firestore)
 
-This project is a starting point for a Flutter application.
+Packages Used: mentioned in [pubspec.yaml](pubspec.yaml)
+
+Images directory contain images used as assets
+
+## Start building your own Apps ->
 
 A few resources to get you started if this is your first Flutter project:
 
